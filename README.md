@@ -1,7 +1,7 @@
 CALayer+jr_UIColor
 ==================
 
-Easily CALayer background and border colors from an UIColor in an ARC-safe fashion.
+Easily CALayer background and border colors from an UIColor in an [ARC-safe](http://blog.bignerdranch.com/296-arc-gotcha-unexpectedly-short-lifetimes/) fashion.
 
 Lets you write:
 
